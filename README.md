@@ -5,10 +5,10 @@ This project aims to create an advanced weather dashboard using HTML, CSS, and N
 Key Features:
 * Real-Time Weather Information: Display current weather data like temperature, humidity, and wind speed, alongside icons 
  or images that depict the conditions.
-*Search Functionality: Users can search for weather updates by city or postal code.
-*HTML/CSS: For creating the structure and style of the dashboard.
-*Node.js: To set up the server, handle API requests, and serve static files.
-*Express.js: A Node.js framework to simplify the handling of requests and routes.
+Search Functionality: Users can search for weather updates by city or postal code.
+HTML/CSS: For creating the structure and style of the dashboard.
+Node.js: To set up the server, handle API requests, and serve static files.
+Express.js: A Node.js framework to simplify the handling of requests and routes.
 # Design Considerations:-
 Use modern design elements like cards or tiles for displaying different weather metrics.
 Implement a color scheme that adjusts based on the time of day and current weather conditions.
